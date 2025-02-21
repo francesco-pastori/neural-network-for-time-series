@@ -38,19 +38,10 @@ The task is to develop a forecasting model that can transcend specific time cont
 | Transformers      | 0.0132          | 0.0067           |
 | Hybrid Architecture | 0.0108         | -                |
 
-## Contributions
-- Francesco Ferrari: Transformer-based models
-- Luca Bresciani: Dataset inspection and representation
-- Francesco Pastori: Sequence building and GRU models
-- Roberto Cialini: GRU and LSTM models
-
 ## References
 - Notebook: “GRU dev.ipynb”
 - Notebook: “Transformer dev.ipynb”
 - Notebook: “Hybrid dev.ipynb”
-
-## License
-Information about the project's license.
 
 ## Acknowledgments
 - Francesco Ferrari
